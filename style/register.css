@@ -1,0 +1,15 @@
+﻿body {
+    margin: 30vh 40vw;
+}
+
+.register-form div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px;
+    width: 250px;
+}
+
+#title {
+    font-size: x-large;
+    color: palevioletred;
+}
